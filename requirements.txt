@@ -1,0 +1,12 @@
+networkx==1.11
+jupyter
+pandas
+matplotlib==2.2.3
+pillow
+Image
+ipython
+ipythonblocks
+keras
+numpy
+tensorflow
+opencv-python
